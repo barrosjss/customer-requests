@@ -2,19 +2,27 @@
 
 | Campo | Valor |
 |-------|-------|
+| **Consultor** | Ing. Jesús Barros |
 | **Dominio** | [aurumintelligence.net](https://www.aurumintelligence.net/) |
 | **Sector** | Consultoría digital / AI para packaging converters |
-| **CMS** | WordPress + Elementor + AIOSEO + Polylang |
-| **Estado** | Cliente activo |
+| **CMS (producción)** | WordPress + Elementor + AIOSEO + Polylang |
+| **Servidor** | Nginx, PHP, MySQL |
+| **Analytics** | Google Analytics, Google Tag Manager |
+| **CRM** | HubSpot |
+| **Marketing** | Newsletter activa + base de datos de clientes |
+| **Ecosistema** | Partner de [Packway (PSS)](../packway/) · BBI International |
+| **Objetivo** | Atraer más leads B2B vía web (SEO + GEO) |
+| **Estado** | Prospecto / en propuesta |
 | **Última auditoría** | 2026-06-10 |
 
 ## Resumen ejecutivo
 
-Sitio web B2B orientado a conversores de packaging (flexografía, corrugated, folding carton). Buen contenido de nicho en el blog, pero con **problemas críticos de seguridad**, restos del theme plantilla *Tecnologia*, versión en español rota y señales que explican la **falta de indexación en Google**.
+Sitio B2B de consultoría AI + packaging. Newsletter, HubSpot y base de clientes operativos, pero la **web no genera leads orgánicos**: malware, cero indexación, marca contaminada por theme *Tecnologia*. Parte del ecosistema junto a packway.us.
 
-## Auditorías
+## Documentos
 
-- [2026-06-10 — SEO + GEO inicial](./auditorias/2026-06-10-seo-geo-inicial.md)
+- [2026-06-10 — Auditoría SEO + GEO](./auditorias/2026-06-10-seo-geo-inicial.md) — Ing. Jesús Barros
+- [Propuesta ecosistema (Packway + Aurum)](../../propuesta-2026-06-10-seo-geo-ecosistema.md)
 
 ## Contacto / datos del negocio
 
